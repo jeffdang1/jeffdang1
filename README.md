@@ -1,15 +1,13 @@
-## Hello World
+### Hi there 👋
 
-I'm currently working on a fitness video game application
+I'm a **16-year-old developer** and **Varsity Football player** currently based in the East San Gabriel, CA area. I have a strong passion for Human-Computer Interaction (HCI) and am focused on broadening my technical skills.
 
-I'm seeking to broaden my technical skills in the HCI field.
+### 🔭 What I'm Working On
+* 🎮 **Fitness Video Game Application:** Designing a workout-based gaming experience. 
 
-Fun Facts:
+### 🌱 What I'm Learning & Exploring
+* 🧠 Broadening my technical skills in the **HCI (Human-Computer Interaction)** field.
+* 🎵 Producing music (a hobby of mine outside of coding and football).
 
-I am 16 years old
-
-I play Varsity Football
-
-I produce music as a hobby
-
-jdang3929@gmail.com
+### 📫 How to Reach Me
+* 📧 Email: jdang3929@gmail.com
